@@ -1,0 +1,12 @@
+1		Petr				25000.0
+2		Gena				20000.0
+3		Lena				17000.0
+4		Valentin			7000.0
+5		Vladimir			15000.0
+6		Mihail				15000.0
+7		Dmitriy				20000.0
+8		U178				5000.0
+9		Wellson				4992.00
+10		Stepan				5824.00
+11		Nikolay				6656.00
+12		Sergei				6656.00
